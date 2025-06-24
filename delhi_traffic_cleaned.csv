@@ -1,0 +1,41 @@
+Date,Hour,Location,Queue_Density,Stop_Density,Accidents_Reported,Fatalities
+2020-09-01,0,Mukarba Chowk,20,10,0,0
+2020-09-02,1,ISBT Kashmere Gate,22,12,1,1
+2020-09-03,2,Burari Chowk,24,12,2,0
+2020-09-04,3,Ashram Chowk,23,14,3,1
+2020-09-05,4,Mukarba Chowk,25,14,4,0
+2020-09-06,5,ISBT Kashmere Gate,27,11,0,1
+2020-09-07,6,Burari Chowk,26,11,1,0
+2020-09-08,7,Ashram Chowk,28,13,2,1
+2020-09-09,8,Mukarba Chowk,30,13,3,0
+2020-09-10,9,ISBT Kashmere Gate,29,15,4,1
+2020-09-11,10,Burari Chowk,21,10,0,0
+2020-09-12,11,Ashram Chowk,23,12,1,1
+2020-09-13,12,Mukarba Chowk,22,12,2,0
+2020-09-14,13,ISBT Kashmere Gate,24,14,3,1
+2020-09-15,14,Burari Chowk,26,14,4,0
+2020-09-16,15,Ashram Chowk,25,11,0,1
+2020-09-17,16,Mukarba Chowk,27,11,1,0
+2020-09-18,17,ISBT Kashmere Gate,29,13,2,1
+2020-09-19,18,Burari Chowk,28,13,3,0
+2020-09-20,19,Ashram Chowk,30,15,4,1
+2020-09-21,20,Mukarba Chowk,22,10,0,0
+2020-09-22,21,ISBT Kashmere Gate,21,12,1,1
+2020-09-23,22,Burari Chowk,23,12,2,0
+2020-09-24,23,Ashram Chowk,25,14,3,1
+2020-09-25,0,Mukarba Chowk,24,14,4,0
+2020-09-26,1,ISBT Kashmere Gate,26,11,0,1
+2020-09-27,2,Burari Chowk,28,11,1,0
+2020-09-28,3,Ashram Chowk,27,13,2,1
+2020-09-29,4,Mukarba Chowk,29,13,3,0
+2020-09-30,5,ISBT Kashmere Gate,31,15,4,1
+2020-10-01,6,Burari Chowk,20,10,0,0
+2020-10-02,7,Ashram Chowk,22,12,1,1
+2020-10-03,8,Mukarba Chowk,24,12,2,0
+2020-10-04,9,ISBT Kashmere Gate,23,14,3,1
+2020-10-05,10,Burari Chowk,25,14,4,0
+2020-10-06,11,Ashram Chowk,27,11,0,1
+2020-10-07,12,Mukarba Chowk,26,11,1,0
+2020-10-08,13,ISBT Kashmere Gate,28,13,2,1
+2020-10-09,14,Burari Chowk,30,13,3,0
+2020-10-10,15,Ashram Chowk,29,15,4,1
